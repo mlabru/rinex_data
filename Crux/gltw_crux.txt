@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - GLTW:
+  "MARKER NAME"         : { 0 : "GLTW" }
+  "MARKER NUMBER"       : { 0 : "2003832" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-GL", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3000181", 1 : "SEPT POLARXS", 2 : "2.9.0" }
+  "ANT # / TYPE"        : { 0 : "5098", 1 : "SEPCHOKE_MC", 2 : "SPKE" }

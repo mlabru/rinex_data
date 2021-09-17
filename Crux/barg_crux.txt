@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - BARG:
+  "MARKER NAME"         : { 0 : "BARG" }
+  "MARKER NUMBER"       : { 0 : "4601179" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-BG", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3013956", 1 : "SEPT POLARX5S", 2 : "5.0.2" }
+  "ANT # / TYPE"        : { 0 : "5098", 1 : "SEPCHOKE_MC", 2 : "SPKE" }

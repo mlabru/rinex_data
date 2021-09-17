@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - PTRL:
+  "MARKER NAME"         : { 0 : "PTRL" }
+  "MARKER NUMBER"       : { 0 : "4601308" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-PL", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3022789", 1 : "SEPT POLARX5S", 2 : "5.1.2" }
+  "ANT # / TYPE"        : { 0 : "5301", 1 : "SEPCHOKE_B3E6", 2 : "SPKE" }

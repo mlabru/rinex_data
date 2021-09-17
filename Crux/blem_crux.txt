@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - BLEM:
+  "MARKER NAME"         : { 0 : "BLEM" }
+  "MARKER NUMBER"       : { 0 : "4601178" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-BE", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3014166", 1 : "SEPT POLARX5S", 2 : "5.0.2" }
+  "ANT # / TYPE"        : { 0 : "5098", 1 : "SEPCHOKE_MC", 2 : "SPKE" }

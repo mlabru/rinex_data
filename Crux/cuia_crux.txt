@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - CUIA:
+  "MARKER NAME"         : { 0 : "CUIA" }
+  "MARKER NUMBER"       : { 0 : "4601307" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-CY", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3022968", 1 : "SEPT POLARX5S", 2 : "5.1.2" }
+  "ANT # / TYPE"        : { 0 : "5098", 1 : "SEPCHOKE_B3E6", 2 : "SPKE" }

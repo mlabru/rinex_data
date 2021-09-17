@@ -1,0 +1,9 @@
+update_insert :
+#------------
+O - CONF:
+  "MARKER NAME"         : { 0 : "CONF" }
+  "MARKER NUMBER"       : { 0 : "2003977" }
+  "MARKER TYPE"         : { 0 : "NON_GEODETIC" }
+  "OBSERVER / AGENCY"   : { 0 : "DTCEA-CF", 1 : "ICEA" }
+  "REC # / TYPE / VERS" : { 0 : "3006419", 1 : "SEPT POLARXS", 2 : "2.9.0" }
+  "ANT # / TYPE"        : { 0 : "5425", 1 : "SEPCHOKE_MC", 2 : "SPKE" }
